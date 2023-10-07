@@ -28,7 +28,6 @@ $api ="https://webdis-ypen.onrender.com/"; // api repo https://github.com/warlor
 
 $imgk = "sb1iddwccg"; // your imagekit id, make your own. instructions in readme.
 
-$ani = =""; // api repo https://github.com/warlordsnet/consu-api
 
 $banner = "https://cdnzia.pages.dev/images/banner.webp";  //Banner use your own
 ?>
