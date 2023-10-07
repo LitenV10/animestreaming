@@ -19,14 +19,14 @@ $twitter = "#"; // Twitter
 // *** IMPORTANT ***  
 // remove slash - "/" from links if present.  
 
-$disqus = "https://watchzia.disqus.com"; // Disqus make your own
+$disqus = "https://animetrix-1.disqus.com/"; // Disqus make your own
 
-$cdn = "https://cdnzia.pages.dev"; // cdn repo https://github.com/warlordsnet/cdnzia
+$cdn = "https://cdnzia-pink.vercel.app/"; // cdn repo https://github.com/warlordsnet/cdnzia
 
 // API URL
-$api =""; // api repo https://github.com/warlordsnet/zia-api
+$api ="https://webdis-ypen.onrender.com/"; // api repo https://github.com/warlordsnet/zia-api
 
-$imgk = ""; // your imagekit id, make your own. instructions in readme.
+$imgk = "sb1iddwccg"; // your imagekit id, make your own. instructions in readme.
 
 $ani = =""; // api repo https://github.com/warlordsnet/consu-api
 
